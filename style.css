@@ -1,0 +1,19 @@
+.heading {
+  color: green;
+}
+.container {
+  background-color: rgb(149, 216, 216);
+}
+.container > h2 {
+  color: rgb(206, 139, 15);
+  text-align: center;
+}
+.Students-table {
+  background-color: rgba(22, 75, 75, 0.467);
+  width: 70%;
+}
+.video {
+    margin-left: 100px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
